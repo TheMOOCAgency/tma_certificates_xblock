@@ -1,0 +1,9 @@
+/* CSS for CertificatestmaXBlock */
+
+.certificates_tma_block .count {
+    font-weight: bold;
+}
+
+.certificates_tma_block p {
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+from .certificates_tma import CertificatestmaXBlock
